@@ -16,7 +16,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreToursClick }) => {
       {/* Background Hero Image with dark cinematic gradients */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_pakistan_mountains_1792250822737.jpg"
+          src="/images/hero_pakistan_mountains.jpg"
           alt="Majestic Karakoram and Himalayan peaks and glacial lake in Pakistan"
           className="w-full h-full object-cover object-center scale-105 transform motion-safe:animate-fade-in"
           referrerPolicy="no-referrer"

@@ -48,7 +48,7 @@ export const AboutSection: React.FC = () => {
           <div className="lg:col-span-5 order-2 lg:order-1 space-y-4">
             <div className="relative rounded-2xl overflow-hidden border border-slate-800 shadow-2xl group">
               <img
-                src="/src/assets/images/kashmir_neelum_valley_1792250823250.jpg"
+                src="/images/kashmir_neelum_valley.jpg"
                 alt="Scenic Neelum Valley river and lush green landscape in Kashmir"
                 className="w-full h-80 sm:h-96 object-cover object-center group-hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
