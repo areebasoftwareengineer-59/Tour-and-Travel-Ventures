@@ -1,0 +1,6 @@
+{
+  "name": "Tour and Travel Ventures",
+  "description": "Premier travel agency in Lahore, Pakistan by Kiswah Business Solution. Guided tours to Kashmir, Hunza, Skardu, Naran, Swat, and customized family and group trips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
